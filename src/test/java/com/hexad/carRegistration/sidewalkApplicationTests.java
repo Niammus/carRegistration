@@ -18,7 +18,7 @@ import java.util.stream.Collectors;
 
 @RunWith(SpringRunner.class)
 @SpringBootTest
-public class CarRegistrationApplicationTests {
+public class sidewalkApplicationTests {
 
 	@Autowired
 	private CarController carController;
