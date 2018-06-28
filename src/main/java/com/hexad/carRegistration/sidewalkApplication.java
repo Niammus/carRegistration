@@ -8,6 +8,5 @@ public class sidewalkApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(sidewalkApplication.class, args);
-		System.out.println("Hello there!");
 	}
 }
